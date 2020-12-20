@@ -18,17 +18,17 @@ const arrayBulan = ['Januari', 'Februari', 'Maret', 'April', 'Mei', 'Juni', 'Jul
 const bulan = arrayBulan[moment().format('MM') - 1]
 
 const config = {
-    RivVerBot: '🙆RivVerBot🙆',
+    HinataCantik: '🙆HinataCantik🙆',
     instagram: 'rahasia',
-    nomer: 'wa.me/6282136699278',
+    nomer: 'wa.me/6289509938750',
     aktif: '24 JAM',
     youtube: 'bukan yutuber',
-    whatsapp: '082136699278',
+    whatsapp: '089509938750',
     tanggal: `TANGGAL: ${moment().format('DD')} ${bulan} ${moment().format('YYYY')}`,
     waktu: time
 }
 
-const { RivVerBot, tanggal, waktu, instagram, whatsapp, youtube, nomer, aktif, ontime } = config
+const { HinataCantik, tanggal, waktu, instagram, whatsapp, youtube, nomer, aktif, ontime } = config
 
 const
 {
@@ -90,6 +90,7 @@ const {
     covidcountry,
     infoanime,
     ytmp3,
+    Joxx ,
     ssweb,
     infogempa,
     loli,
