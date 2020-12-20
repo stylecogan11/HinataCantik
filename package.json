@@ -1,5 +1,5 @@
 {
-  "name": "RivVerBot",
+  "name": "HinataCantik",
   "version": "1.0.0",
   "description": "Termux only",
   "main": "index.js",
@@ -23,15 +23,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/A187ID/AR15BOT.git"
+    "url": "git+https://github.com/stylecogan11/HinataCantik"
   },
   "keywords": [
     "k"
   ],
-  "author": "Abdul Muttaqin",
+  "author": "Stylecogan11",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/A187ID/AR15BOT/issues"
+    "url": "https://github.com/stylecogan11/HinataCantik/issues"
   },
-  "homepage": "https://github.com/A187ID/AR15BOT/readme"
+  "homepage": "https://github.com/stylecogan11/HinataCantik/readme"
 }
